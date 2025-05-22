@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("A의 라벨입니다") // 이 부분을 수정
+        Text("A의 테스트 라벨입니다") // 이 부분을 수정
         .font(.system(size: 30)) // 이 부분을 수정
         .multilineTextAlignment(.center)
         .padding(.top, 10) // 이 부분을 추가
